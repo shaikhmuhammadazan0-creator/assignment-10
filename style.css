@@ -1,0 +1,28 @@
+div{
+    text-align: center;
+    font-style: italic;
+    background-color: rgb(156, 238, 156);
+    border-radius: 10px;
+}
+.box{
+    background-image: url(https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%2Fid%2FOIP.G37tgeQqSNt7v2oPfj9ltQHaE7%3Fpid%3DApi&f=1&ipt=338aaa3053f0d99fdb067c6c7c4db4365062e9289a736a7f4d739e9ea50d6459&ipo=images);
+    background-size:cover;
+    background-repeat: no-repeat;
+    height: 250px
+
+}
+.box h1{
+    color: white;
+    font-size: 50px;
+}
+.lol{
+    background: linear-gradient(to right, rgb(211, 55, 16) , yellow);
+    height: 350px;
+}
+#radial{
+    box-shadow: 2px 3px 3px 2px #888888;
+    background-image: radial-gradient(rgba(205, 115, 6, 0.76),rgb(131, 161, 20));
+}
+
+    
+
